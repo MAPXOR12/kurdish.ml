@@ -1,3 +1,3 @@
 module.exports = {
-    baseUrl: "https://api.vcodes.xyz/v1"
+    baseUrl: "https://kurdgg.ml/api"
 }
